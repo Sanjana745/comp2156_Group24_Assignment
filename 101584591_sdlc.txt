@@ -2,3 +2,4 @@ DevOps in SDLC - why it matters
 DevOps integrates well into the Software Development Life Cycle.
 It improves testing and deployment stages.
 Continuous integration reduces errors in production.
+Testing automation is a key benefit of DevOps.
