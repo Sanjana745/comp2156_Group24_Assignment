@@ -1,0 +1,7 @@
+Importance of DevOps in SDLC
+
+DevOps plays an important role in the Software Development Life Cycle.
+It helps automate testing and deployment.
+Continuous integration reduces errors in development.
+DevOps improves communication between teams.
+It ensures faster and more reliable software releases.
