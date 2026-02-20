@@ -7,3 +7,4 @@ Students learn collaboration using version control systems.
 It focuses on real-world DevOps tools and workflows.
 DevOps improves software delivery speed.
 It encourages teamwork and continuous integration.
+Version control is a key part of DevOps practice.
