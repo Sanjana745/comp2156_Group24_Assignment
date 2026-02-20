@@ -5,3 +5,5 @@ DevOps combines development and operations practices.
 The course teaches Git, GitHub, CI/CD, and automation.
 Students learn collaboration using version control systems.
 It focuses on real-world DevOps tools and workflows.
+DevOps improves software delivery speed.
+It encourages teamwork and continuous integration.
