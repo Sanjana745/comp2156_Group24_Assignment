@@ -5,3 +5,6 @@ It helps automate testing and deployment.
 Continuous integration reduces errors in development.
 DevOps improves communication between teams.
 It ensures faster and more reliable software releases.
+Automation increases efficiency in projects.
+DevOps supports continuous monitoring and feedback.
+DevOps shortens development cycles.
