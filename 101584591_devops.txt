@@ -1,1 +1,4 @@
 COMP2156 DevOps - what I learned
+DevOps improves collaboration between development and operations teams.
+It allows faster software delivery.
+Automation tools like GitHub Actions help in CI/CD.
