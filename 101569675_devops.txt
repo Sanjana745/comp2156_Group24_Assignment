@@ -9,3 +9,7 @@ The course introduces branching, merging, and pull requests.
 Students also learn about GitHub Actions for CI/CD.
 The course improves problem-solving and teamwork skills.
 DevOps practices help in faster and more reliable software delivery.
+
+DevOps combines development and operations.
+It improves collaboration between teams.
+Automation is a key principle in DevOps.
