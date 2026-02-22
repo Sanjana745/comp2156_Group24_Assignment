@@ -9,3 +9,7 @@ Continuous integration and continuous deployment are key concepts.
 DevOps ensures faster testing and feedback.
 It improves software quality and stability.
 Learning DevOps helps students prepare for modern IT industry roles.
+
+SDLC stands for Software Development Life Cycle.
+It includes planning, designing, testing, and deployment.
+It ensures software quality and structure.
