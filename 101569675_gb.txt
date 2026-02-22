@@ -1,4 +1,8 @@
 COMP 2156 is a DevOps course in the Computer Systems Technology program.
+The college offers programs in business and technology.
+It provides hands-on practical learning.
+Students benefit from experienced faculty members.
+The campuses are located in downtown Toronto.
 The course teaches version control using Git and GitHub.
 Students learn about collaboration in software development.
 
