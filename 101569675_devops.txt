@@ -1,0 +1,15 @@
+COMP 2156 is a DevOps course in the Computer Systems Technology program.
+The course teaches version control using Git and GitHub.
+Students learn about collaboration in software development.
+
+DevOps focuses on automation and continuous integration.
+It helps teams work together efficiently.
+The course introduces branching, merging, and pull requests.
+
+Students also learn about GitHub Actions for CI/CD.
+The course improves problem-solving and teamwork skills.
+DevOps practices help in faster and more reliable software delivery.
+
+DevOps combines development and operations.
+It improves collaboration between teams.
+Automation is a key principle in DevOps.
