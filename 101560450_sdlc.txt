@@ -1,0 +1,2 @@
+DevOps plays an important role in SDLC by automating testing and deployment.
+It helps teams deliver software faster and more efficiently.
