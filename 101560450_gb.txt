@@ -5,3 +5,4 @@ The college offers diploma, advanced diploma, degree, and postgraduate certifica
 The college has three main campuses: St. James Campus, Casa Loma Campus, and Waterfront Campus.
 Each campus is equipped with modern labs, classrooms, and technology to support student learning.
 The Waterfront campus specializes in health sciences programs.
+Update contributor
