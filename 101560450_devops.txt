@@ -1,0 +1,6 @@
+COMP 2156 is a DevOps course offered at George Brown College.
+It teaches students about Git, GitHub, CI/CD, and automation tools.
+
+DevOps is a combination of Development and Operations.
+It promotes collaboration between software developers and IT operations teams.
+The main goal of DevOps is to shorten the development lifecycle and deliver high-quality software.
